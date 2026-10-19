@@ -1,4 +1,4 @@
-service: serverless-payroll-api
+service: ralph-serverless-payroll-api
 
 provider:
     name: aws
